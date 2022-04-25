@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696188257025",
+    "project_id": "spotify-31306",
+    "storage_bucket": "spotify-31306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696188257025:android:d6f8a7ceca7dcf5aa89100",
+        "android_client_info": {
+          "package_name": "com.alperendiler.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696188257025-do2tk166dlarubj36gpo5h1fs0s96mgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSImrKXBtqrhOWjBcO59-hWEmTQbSbhlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696188257025-do2tk166dlarubj36gpo5h1fs0s96mgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
